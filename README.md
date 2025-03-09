@@ -26,7 +26,7 @@ This project is a **KML file visualizer** built with **React** and **Leaflet**. 
 
 ## 📦 Installation
 
-### 1. Clone the repo
+
 
 ```bash
 git clone https://github.com/sabinovas/OOkul.git
