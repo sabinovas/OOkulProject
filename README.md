@@ -32,3 +32,19 @@ This project is a **KML file visualizer** built with **React** and **Leaflet**. 
 git clone https://github.com/sabinovas/OOkul.git
 cd OOkul/frontend
 
+npm install
+npm start
+
+🧪 How to Use
+Run the app.
+Upload a .kml file using the file input.
+The app will:
+Parse the KML data.
+Show element summary and details.
+Display the elements on the map.
+Supported Elements:
+
+Points (shown as markers)
+LineStrings and MultiLineStrings
+GroundOverlays (shown as image overlays)
+
